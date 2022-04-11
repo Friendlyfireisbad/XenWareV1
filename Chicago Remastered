@@ -10,10 +10,7 @@ function silentaim(fov)
                     spawn(function()
                      
                         
-                        
-                      --FORTNITE BATTLE PASS
-                
-                      --Holdi: I just shit out my ass.
+               
                         
                         local SilentAim = true
                         local LocalPlayer = game:GetService("Players").LocalPlayer
