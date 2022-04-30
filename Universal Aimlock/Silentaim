@@ -66,14 +66,7 @@ Tab:AddLabel("SilentAim")
 Tab:AddButton({
 	Name = "SilentAim",
 	Callback = function()
-        OrionLib:MakeNotification({
-            Name = "XenWare",
-            Content = "Soon",
-            Image = "rbxassetid://4483345998",
-            Time = 5
-        })
-        
-      
+
         silentaim()
     end     
     })
